@@ -1,0 +1,40 @@
+git(집중분산버전관리프로그램) - https://git-scm.com/download/win
+
+폴더 우클릭->git bash here 클릭
+
+_________________________________________________________________________________________________
+
+https://github.com/szahn0424/illustrator 의 첫번째것 중
+
+1) git init 복 붙(붙여넣기는 우클릭 paste)
+
+폴더보기옵션을 숨긴파일도 보기로 바꿔야함
+
+2) git remote add origin https://github.com/szahn0424/illustrator.git 복 붙
+
+3. git remote -v  쓰고 엔터
+
+4. git status 쓰고 엔터 (상태)
+
+5. git add . 쓰고 엔터 (추가하겠다)
+
+6. git status 쓰고 엔터 (업뎃상태)
+
+7. git config --global user.name "szahn0424"  써넣기
+
+7-1. git config --global user.email design0424@naver.com 써넣기
+
+8. git commit -m "first commit"  복 붙
+
+9. git status 쓰고 엔터 (상태)
+
+10. git commit -m "first commit" 복붙
+
+11. git push origin master  쓰고 인증하기
+
+
+
+
+
+
+github

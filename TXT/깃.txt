@@ -1,0 +1,41 @@
+웹서버저장소
+(깃허브)
+
+깃 ->버전관리프로그램
+
+
+로그인 ->레포지터리스 클릭
+
+셋팅->Delete this repository
+
+________________
+
+
+뉴 버튼 클릭 ->레포지터리 이름->퍼블릭으로
+
+
+________________
+
+
+깃 
+
+https://git-scm.com/
+스탠다드->64비트 다운로드(확인 후)
+
+
+폴더 들어가서->우클릭 깃 배쉬 히어 클릭
+
+git init 치고 엔터 ->git status 치고 엔터
+-> git add .  치고 엔터
+-> git status 치고 엔터
+
+-> git commit -m "내용입력"  치고 엔터
+(버전이 하나 만들어지는 것)
+
+->깃허브 코드 상단에 https://github.com/szahn0424/AI.git 복사
+
+-> git remote add origin http~~~(이부분은 마우스 우클릭 페이스트로 붙이기) 하고 엔터
+
+-> git remote -v   치고 엔터 (상태확인)
+-> git push origin master 치고 엔터 
+
